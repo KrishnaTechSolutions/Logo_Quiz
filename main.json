@@ -1,0 +1,54 @@
+{
+  "one-signal": "",
+  
+  "adIds": {
+    "google": {
+      "appOpen": "ca-app-pub-3940256099942544/5575463023",
+      "fullScreen": "ca-app-pub-3940256099942544/4411468910",
+      "reward": "",
+      "rewardInter": "",
+      "banner": "ca-app-pub-3940256099942544/2435281174",
+      "native": "ca-app-pub-3940256099942544/3986624511"
+    }
+  },
+  
+  "1.0.0": {
+    "assets": {
+      "privacyPolicy": "https://hareshmakrubiya.blogspot.com/2024/12/mods-for-melon-playgrounds.html",
+      "contactUs": "https://hareshmakrubiya.blogspot.com/p/contact-us.html",
+      "rateUs": "https://apps.apple.com/app/id6739037233",
+      "shareApp": "https://apps.apple.com/app/id6739037233"
+    },
+    
+    "globalConfig": {
+      "globalAdFlag": true,
+      "globalNative": true,
+      "globalBanner": true,
+      "rewardOverRide": false,
+      "overrideTimer": 15,
+      "rateUsTimer": 6000,
+      "maxFailed": 2
+    },
+    
+    "isUserConsent": false,
+    "isUpdate": false,
+    "updateUrl": "https://apps.apple.com/app/id6504996005",
+    
+    "screens": {
+      "/HomeScreen": {
+        "localAdFlag": true,
+        "localClick": [0],
+        "localFail": {"0": 5, "4": 0, "5": 4},
+        "banner": 0,
+        "native": 0
+      }
+    },
+    "actions": {
+      "SplashScreen": {
+        "localAdFlag": true,
+        "localClick": [0],
+        "localFail": {"0": 5, "4": 0, "5": 4}
+      }
+    }
+  }
+}
