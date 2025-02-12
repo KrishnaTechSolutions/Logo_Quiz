@@ -65,8 +65,23 @@
         "banner": 0,
         "native": 0,
         "actions": {
+          "hintBtn": {
+            "localAdFlag": true,
+            "localClick": [10,10,0],
+            "localFail": {"0": 1}
+          },
+          "clearBtn": {
+            "localAdFlag": true,
+            "localClick": [10,10,0],
+            "localFail": {"0": 1}
+          },
+          "undoBtn": {
+            "localAdFlag": true,
+            "localClick": [10,10,0],
+            "localFail": {"0": 1}
+          },
           "showAdEarnStarBtn": {
-            "localAdFlag": false,
+            "localAdFlag": true,
             "localClick": [10,10,0],
             "localFail": {"0": 1}
           }
