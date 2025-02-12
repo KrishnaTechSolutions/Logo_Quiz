@@ -29,6 +29,8 @@
       "rateUsTimer": 6000,
       "maxFailed": 2
     },
+
+    "showAdEarnStarBtn": true,
     
     "isUserConsent": false,
     "isUpdate": false,
