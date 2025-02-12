@@ -21,7 +21,7 @@
     },
     
     "globalConfig": {
-      "globalAdFlag": true,
+      "globalAdFlag": false,
       "globalNative": true,
       "globalBanner": true,
       "rewardOverRide": false,
