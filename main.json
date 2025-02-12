@@ -30,7 +30,7 @@
       "maxFailed": 2
     },
 
-    "showAdEarnStarBtn": true,
+    "showAdEarnStarBtn": false,
     
     "isUserConsent": false,
     "isUpdate": false,
